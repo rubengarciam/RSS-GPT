@@ -42336,3 +42336,15 @@ Fetch error: HTTPSConnectionPool(host='rsshub.app', port=443): Read timed out. (
 Fetch failed from https://rsshub.app/paulgraham/articles
 append_entries: 0
 error when rendering xml, skip docs/paul-graham
+------------------------------------------------------
+Started: 2025-05-07 00:48:21.587635
+Existing_entries: 35
+Fetching from https://rsshub.app/paulgraham/articles
+Summarization failed, append the original article
+error: Connection error.
+Append: [What to Do](http://paulgraham.com/do.html)
+Append: [The Origins of Wokeness](http://paulgraham.com/woke.html)
+Append: [Writes and Write-Nots](http://paulgraham.com/writes.html)
+Append: [When To Do What You Love](http://paulgraham.com/when.html)
+append_entries: 4
+Finish: 2025-05-07 00:48:27.789442

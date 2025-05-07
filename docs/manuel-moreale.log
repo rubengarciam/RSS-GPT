@@ -12186,3 +12186,21 @@ Existing_entries: 634
 Fetching from https://manuelmoreale.com/feed/rss
 append_entries: 0
 Finish: 2025-04-15 12:07:01.205197
+------------------------------------------------------
+Started: 2025-05-07 00:48:35.427729
+Existing_entries: 634
+Fetching from https://manuelmoreale.com/feed/rss
+Summarization failed, append the original article
+error: Connection error.
+Append: [A moment with waves](https://manuelmoreale.com/a-moment-with-waves)
+Append: [Labeling the mind](https://manuelmoreale.com/labeling-the-mind)
+Append: [A moment with concrete](https://manuelmoreale.com/a-moment-with-concrete)
+Append: [A thought on AI and creativity](https://manuelmoreale.com/a-thought-on-ai-and-creativity)
+Append: [P&B: Alexandra Deschamps-Sonsino](https://manuelmoreale.com/pb-alexandra-deschamps-sonsino)
+Append: [Tomorrow](https://manuelmoreale.com/tomorrow)
+Append: [IndieWeb Carnival: Renewal](https://manuelmoreale.com/indieweb-carnival-renewal)
+Append: [P&B: Frills](https://manuelmoreale.com/pb-frills)
+Append: [Fixing the mind](https://manuelmoreale.com/fixing-the-mind)
+Append: [P&B: Jeremy Keith](https://manuelmoreale.com/pb-jeremy-keith)
+append_entries: 10
+Finish: 2025-05-07 00:48:38.815898

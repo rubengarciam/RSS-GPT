@@ -42422,3 +42422,13 @@ Existing_entries: 433
 Fetching from https://rknight.me/feed.xml
 append_entries: 0
 Finish: 2025-04-15 12:06:26.694883
+------------------------------------------------------
+Started: 2025-05-07 00:48:13.418218
+Existing_entries: 433
+Fetching from https://rknight.me/feed.xml
+Summarization failed, append the original article
+error: Connection error.
+Append: [New Logo, Who Dis?](https://rknight.me/blog/new-logo-who-dis/)
+Append: [I Bought the Tomb Raider Pen](https://rknight.me/blog/i-bought-the-tomb-raider-pen/)
+append_entries: 2
+Finish: 2025-05-07 00:48:17.606280

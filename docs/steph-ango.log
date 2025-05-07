@@ -42184,3 +42184,12 @@ Existing_entries: 77
 Fetching from https://stephanango.com/feed.xml
 append_entries: 0
 Finish: 2025-04-15 12:06:27.130233
+------------------------------------------------------
+Started: 2025-05-07 00:48:17.718993
+Existing_entries: 77
+Fetching from https://stephanango.com/feed.xml
+Summarization failed, append the original article
+error: Connection error.
+Append: [How I use Obsidian](https://stephango.com/vault)
+append_entries: 1
+Finish: 2025-05-07 00:48:20.759526

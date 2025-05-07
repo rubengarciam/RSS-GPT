@@ -4,6 +4,925 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+<item>
+<title>【开发者自荐】一句话AI生成智能日程</title>
+<link>https://meta.appinn.net/t/topic/71082</link>
+<guid>https://meta.appinn.net/t/topic/71082</guid>
+<content:encoded><![CDATA[
+
+<p>软件名称<br />
+Elisi 光点计划</p>
+<p>应用平台<br />
+iOS、Web、安卓、PC、Mac</p>
+<p>推荐类型<br />
+【开发者自荐】</p>
+<p>一句简介<br />
+一句话生成智能日程，AI帮你高效规划生活与任务。</p>
+<p>应用简介<br />
+Elisi AI 通过自然语言处理与语音交互，实现多场景智能规划。目前已实现的功能有：</p>
+<ul>
+<li>语音/文本输入生成日程、待办、开支、心情记录</li>
+<li>复杂指令自动拆解为可执行任务（如“1个月减5斤”生成健身计划）</li>
+<li>跨场景需求处理（会议纪要→时间表/旅行记录→费用+任务）</li>
+<li>智能时间安排（自动设置提醒与截止日期）</li>
+<li>iOS端语音即时输入</li>
+</ul>
+<p>使用该软件 <strong>需要注册账户</strong>。<br />
+语音输入、复杂任务拆解、多设备同步需开通会员，基础任务生成功能可免费使用（每月100条对话额度）。</p>
+<p>以下功能还在开发中，敬请关注：</p>
+<ul>
+<li>Android客户端</li>
+<li>团队协作规划模块</li>
+<li>数据分析与效率报告</li>
+</ul>
+<p>截图预览<br />
+                    <a class="onebox" href="https://h1.appinn.me/file/1746507890192_image.png" rel="noopener nofollow ugc" target="_blank">
+            <img height="500" src="https://h1.appinn.me/file/1746507890192_image.png" width="374" />
+          </a>
+
+</p>
+<p>官方网站<br />
+<a href="https://elisiapp.com/" rel="noopener nofollow ugc">https://elisiapp.com</a><br />
+直接体验：<a href="https://next.elisiapp.com/" rel="noopener nofollow ugc">https://next.elisiapp.com</a></p>
+<p>——<br />
+▎开发者补充说明</p>
+<ul>
+<li>兑换「小众软件」用户专享福利：输入码 <strong>XVXSGW</strong> 可在会员页兑换额外权益</li>
+<li>用户故事征集：分享Elisi提升效率的案例，有机会获赠月度会员</li>
+<li>语音交互技巧：支持模糊复杂指令（如“下周三去植物园花费200元”），AI自动安排日程+记录开支</li>
+</ul>
+            <p><small>2 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/71082">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Tue, 06 May 2025 05:31:32 +0000</pubDate>
+<pubDate>Tue, 06 May 2025 05:31:32 +0000</pubDate>
+</item>
+<item>
+<title>【开源分享】我开发的一款Chrome/Edge插件：公众号阅读增强器，增加文章目录导航和图片放大预览</title>
+<link>https://meta.appinn.net/t/topic/71045</link>
+<guid>https://meta.appinn.net/t/topic/71045</guid>
+<content:encoded><![CDATA[
+
+<p>平时用电脑看微信公众号文章时，有没有遇到这些痛点：<br />
+✓ 长文找不到想看的部分，只能拼命滚动<br />
+✓ 不知道文章结构，读着读着忘了前面讲什么<br />
+✓ 图片太小看不清细节<br />
+✓ 不知道自己阅读到哪里了</p>
+<p>为解决这些问题，我开发了这款【公众号阅读增强插件】，完全免费开源！</p>
+<p>【核心功能】<br />
+1⃣ 文章目录导航：自动生成文章大纲，点击即可跳转<br />
+2⃣ 图片放大预览：点击图片秒变大图，细节一览无余<br />
+3⃣ 阅读位置追踪：目录自动高亮当前阅读位置，不迷路<br />
+4⃣ 界面简洁美观：不影响原有阅读体验</p>
+<p>已上架Chrome商店，Edge商店（审核中），搜索"公众号阅读增强器"即可安装。</p>
+<p>开源地址：<a class="inline-onebox" href="https://github.com/someone1128/WeChatReaderEnhancer" rel="noopener nofollow ugc">GitHub - someone1128/WeChatReaderEnhancer: 公众号阅读增强插件是一款 Chrome 浏览器扩展，旨在提升用户阅读微信公众号文章的体验。通过自动生成文章的结构化目录，让您轻松了解文章结构、快速导航到感兴趣的部分，并在阅读长文时保持位置感知。</a></p>
+<p>Google商店下载地址：<a href="https://chromewebstore.google.com/detail/%E5%85%AC%E4%BC%97%E5%8F%B7%E9%98%85%E8%AF%BB%E5%A2%9E%E5%BC%BA%E5%99%A8/hkphjgkdfljgdhbljjmhmdllbcmiofof" rel="noopener nofollow ugc">https://chromewebstore.google.com/detail/公众号阅读增强器/hkphjgkdfljgdhbljjmhmdllbcmiofof</a></p>
+<p>官网：<a href="https://wxreader.browserplus.store/" rel="noopener nofollow ugc">https://wxreader.browserplus.store/</a></p>
+<p></p>
+            <p><small>8 个帖子 - 8 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/71045">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Sun, 04 May 2025 13:55:03 +0000</pubDate>
+<pubDate>Sun, 04 May 2025 13:55:03 +0000</pubDate>
+</item>
+<item>
+<title>【开发者自荐】NoTab - 在当前浏览器页面预览链接</title>
+<link>https://meta.appinn.net/t/topic/70589</link>
+<guid>https://meta.appinn.net/t/topic/70589</guid>
+<content:encoded><![CDATA[
+
+<p>NoTab 是一个浏览器插件，主要功能是在当前页面预览链接，功能列表如下：</p>
+<ul>
+<li>链接预览： 无需打开新标签即可立即查看链接中的内容，帮助你保持专注并减少干扰。</li>
+<li>可自定义的预览窗口： 调整预览窗口的大小并固定其位置，以便在滚动时获得最佳阅读体验。</li>
+<li>同时预览多个链接： 在当前页面中比较多个链接。</li>
+<li>快速翻译： 拖动文本即可快速翻译。</li>
+<li>快速搜索： 拖动文本即可快速搜索。</li>
+</ul>
+<p><img alt="ShotEasy (18).png" height="431" src="https://h1.appinn.me/file/1745239578859_ShotEasy%20(18).png" width="690" /></p>
+<p><img alt="ShotEasy (17).png" height="431" src="https://h1.appinn.me/file/1745239584660_ShotEasy%20(17).png" width="690" /></p>
+<p><img alt="ShotEasy (16).png" height="431" src="https://h1.appinn.me/file/1745239580880_ShotEasy%20(16).png" width="690" /></p>
+<p><img alt="ShotEasy (19).png" height="431" src="https://h1.appinn.me/file/1745239578308_ShotEasy%20(19).png" width="690" /></p>
+            <p><small>29 个帖子 - 11 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70589">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Mon, 21 Apr 2025 14:00:55 +0000</pubDate>
+<pubDate>Mon, 21 Apr 2025 14:00:55 +0000</pubDate>
+</item>
+<item>
+<title>【提问】大家平时会用什么在线工具呢？</title>
+<link>https://meta.appinn.net/t/topic/70612</link>
+<guid>https://meta.appinn.net/t/topic/70612</guid>
+<content:encoded><![CDATA[
+
+<p>大家好！</p>
+<p>最近我花了一些时间开发了一个 <strong>前端在线工具站</strong> ，主要是一些实用的小工具，比如二维码生成器、颜色选择器、图片压缩等。目前还在初期阶段，功能不算特别完善，但已经可以正常使用了。</p>
+<p>为了更好地优化这个工具站，我想通过这次发帖向大家请教一些问题，希望能了解大家在日常工作中对在线工具的需求，以及目前有哪些痛点或不满意的点。以下是几个具体的问题（当然也欢迎大家自由讨论）：</p>
+<ol>
+<li><strong>你平时会用哪些在线工具？</strong><br />
+比如代码编辑器、图片处理工具、字体生成器、颜色选择器、API调试工具等等，你觉得哪些是必不可少的？</li>
+<li><strong>有哪些工具是你需要的，但一直找不到合适的？</strong><br />
+如果有某些功能是你觉得很重要，但市面上现有的工具做得不够好或者不够方便，欢迎告诉我！</li>
+<li><strong>你目前正在使用的工具有哪些让你觉得不舒服的地方？</strong><br />
+比如界面设计不够友好、加载速度慢、功能缺失等等。</li>
+<li><strong>你认为哪些在线工具站做得特别好？</strong><br />
+如果你有特别喜欢的工具站（比如 Canva、Figma、CodePen 等），可以分享一下它们的优点，以及为什么你觉得它们好用。</li>
+</ol>
+<hr />
+<h4><a class="anchor" href="https://meta.appinn.net#p-260605-h-1" name="p-260605-h-1"></a>我的工具站</h4>
+<p>我的工具站目前做了70+个小工具，感兴趣的小伙伴可以试试 <a href="https://www.ufreetools.com/" rel="noopener nofollow ugc">www.ufreetools.com</a></p>
+<h4><a class="anchor" href="https://meta.appinn.net#p-260605-h-2" name="p-260605-h-2"></a>最后</h4>
+<p>希望大家能踊跃留言，无论是吐槽还是建议都行！我会根据大家的反馈逐步优化工具站的功能和用户体验。如果你有任何其他想法，比如希望加入某个特定的功能模块，也可以直接提出来。</p>
+<p>非常感谢大家的支持！期待你们的回复~ <img alt=":blush:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/blush.png?v=14" title=":blush:" width="20" /></p>
+            <p><small>10 个帖子 - 5 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70612">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Tue, 22 Apr 2025 06:08:40 +0000</pubDate>
+<pubDate>Tue, 22 Apr 2025 06:08:40 +0000</pubDate>
+</item>
+<item>
+<title>【浏览器插件】wedock智能搜索 - 聚合AI搜索和传统搜索引擎</title>
+<link>https://meta.appinn.net/t/topic/70811</link>
+<guid>https://meta.appinn.net/t/topic/70811</guid>
+<content:encoded><![CDATA[
+
+<p>主要功能：快捷搜索AI（豆包、元宝、deepseek等）和传统搜索引擎（百度、谷歌等）</p>
+<p>要点：</p>
+<ul>
+<li>wedock 组件可自动隐藏</li>
+<li>输入内容后，按 enter 默认跳转到 AI 搜索引擎，按 ctrl+enter 跳转传统搜索引擎，如百度谷歌等，可以反向切换设置</li>
+</ul>
+<p>核心出发点：</p>
+<ul>
+<li>用户可以不用跳页快捷跳转搜索，思考不中断，在当前页直达想要搜索的内容，主打方便快捷</li>
+</ul>
+<p>官网：<br />
+<a href="https://wedock.net/" rel="noopener nofollow ugc">wedock.net</a></p>
+<p>B站视频介绍：<br />
+</p>
+<p>核心功能演示（GIF图，加载有点慢）：<br />
+<img alt="Image" height="397" src="https://h1.appinn.me/file/1745660406124_wedock-showcase.gif" width="690" /></p>
+<p>一些功能图：</p>
+<ol>
+<li>搜索历史记录</li>
+</ol>
+<p><img alt="Image" height="500" src="https://h1.appinn.me/file/1745660380918_searchbar.png" width="589" /></p>
+<ol start="2">
+<li>Ai平台列表，可以默认选择一个常用</li>
+</ol>
+<p><img alt="Image" height="380" src="https://h1.appinn.me/file/1745660345024_ai.png" width="690" /></p>
+<ol start="3">
+<li>传统搜索引擎，可以默认选择一个作为常用</li>
+</ol>
+<p><img alt="Image" height="216" src="https://h1.appinn.me/file/1745660503028_search-engine.png" width="690" /></p>
+<ol start="4">
+<li>丰富的设置功能，保证个性化</li>
+</ol>
+<p><img alt="Image" height="416" src="https://h1.appinn.me/file/1745660387447_settings.png" width="690" /></p>
+            <p><small>3 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70811">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Sat, 26 Apr 2025 12:24:07 +0000</pubDate>
+<pubDate>Sat, 26 Apr 2025 12:24:07 +0000</pubDate>
+</item>
+<item>
+<title>【开发者自荐】Flow Mark - AI 驱动的无侵入式书签归纳，不再焦虑书签管理</title>
+<link>https://meta.appinn.net/t/topic/70692</link>
+<guid>https://meta.appinn.net/t/topic/70692</guid>
+<content:encoded><![CDATA[
+
+<h2><a class="anchor" href="https://meta.appinn.net#p-260916-h-1" name="p-260916-h-1"></a>起因</h2>
+<p>目前市面上的书签管理插件我用着还是有点不太满意，我想要的是那种我一收藏，它自己根据我的使用习惯、我的目录结构来进行分类，而不是重构我的分类。</p>
+<p>于是我就做了这款插件来自动整理收藏，大致用法是你收藏的时候，AI 会自动在右上角帮你推荐收藏的目录。</p>
+<p><img alt="image.png" height="190" src="https://h1.appinn.me/file/1745410932659_image.png" width="620" /></p>
+<p>然后就是简单做了个标签页管理（后续再优化），按 ctrl+b 可以快速调出标签页集合，选中指定的集合就可以替换当前窗口为那个标签集。</p>
+<p><img alt="image.png" height="431" src="https://h1.appinn.me/file/1745410996618_image.png" width="690" /></p>
+<p>目前支持edge和Chrome。</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260916-h-2" name="p-260916-h-2"></a>功能介绍</h2>
+<p>软件特色功能：</p>
+<ol>
+<li>用户收藏一个网址的时候，插件会自动在网页的右上方进行智能分析该网站应该归纳到用户的哪个文件夹（基于用户自己的文件夹和使用习惯），用户可以选择拒绝和接收建议，并且在五秒后，会自动采纳建议，所以用户无需任何额外的操作和考虑就可以将网页归纳到最佳书签夹中（参考图一）。</li>
+<li>插件还内置的了方便的 tabs 标签集管理功能，只要按下 ctrl+b 就可以一键收纳标签集并且一键恢复，还支持中文拼音搜索已有的标签集（同时会搜索各个标签集的标题）。</li>
+<li>智能一键整理书签，可以一键让AI对现有的所有书签进行整理，同时提供回滚与操作记录。<br />
+Flow Mark尊重用户的隐私，设有隐私模式，可以防止一些隐私网站的信息泄露。<br />
+<img alt="image.png" height="383" src="https://h1.appinn.me/file/1745411089529_image.png" width="690" /></li>
+</ol>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260916-h-3" name="p-260916-h-3"></a>后续计划</h2>
+<ul>
+<li>完善一键智能整理效果，增加文件夹整理（即优化现有的目录结果，比如我现在工具下面有 AI，AI 下面有工具，显然是不合理的，让 AI 将这些不合理的目录合并）</li>
+<li>适配 firefox</li>
+<li>增加按照规则自动收藏网页，完全无需认为干预</li>
+</ul>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260916-h-4" name="p-260916-h-4"></a>安装地址</h2>
+<p><a href="https://chromewebstore.google.com/detail/kbmjedeepcglnmllaklecppgijhgggdg?utm_source=item-share-cb" rel="noopener nofollow ugc">Chrome</a><br />
+<a href="https://microsoftedge.microsoft.com/addons/detail/flow-mark/jhkgeocpgaonkhokomndikadjpagmjhj" rel="noopener nofollow ugc">Edge</a></p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260916-h-5" name="p-260916-h-5"></a>常见问题</h2>
+<h3><a class="anchor" href="https://meta.appinn.net#p-260916-h-6" name="p-260916-h-6"></a>软件有使用限制吗？</h3>
+<p>智能推荐（增量书签的自动归纳）、标签集管理功能没有做任何限制，甚至不需要登录就能用。</p>
+<p>目前对新版本的一键整理书签的功能进行了限制。原因也很简单，钱包兜不住，假设平均每个用户500书签，100个用户就需要50000次请求了，实在是兜不住，所以暂时做了点限制，然后做了个邀请获取次数。</p>
+<p>这个限制策略后续可能还会调整。</p>
+<p>然后自定义API，忘记绕开限制了，后面版本绕一下。</p>
+            <p><small>9 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70692">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Wed, 23 Apr 2025 13:58:42 +0000</pubDate>
+<pubDate>Wed, 23 Apr 2025 13:58:42 +0000</pubDate>
+</item>
+<item>
+<title>【开发者自荐】Reply Bird - 简单的 X 浏览记录插件</title>
+<link>https://meta.appinn.net/t/topic/70691</link>
+<guid>https://meta.appinn.net/t/topic/70691</guid>
+<content:encoded><![CDATA[
+
+<h2><a class="anchor" href="https://meta.appinn.net#p-260915-h-1" name="p-260915-h-1"></a>起因</h2>
+<p>之前在 X 上刷到一个摆放的很好看的桌面，但是没有收藏，过了大概三天和朋友两天的时候提到了，想给朋友看一下，奈何找不到那个图了，于是做了个记录 X 浏览记录的小插件，分享出来给有需要的人用用，虽然功能很简单。</p>
+<p>后面可能不定期增加些小功能比如搜索、筛选啥的。</p>
+<p>然后还有一个原因是最近我打算开发很多轻量化的小插件，可能会持续更新一批小插件，这算个开头吧。</p>
+<p>icon 用的之前推特的蓝鸟形象，不过是自己画的哈哈哈。</p>
+<p><img alt="image.png" height="486" src="https://h1.appinn.me/file/1745412145092_image.png" width="690" /></p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260915-h-2" name="p-260915-h-2"></a>下载地址</h2>
+<p><a href="https://chromewebstore.google.com/detail/nfjmhefldacnkagjdekejhlbcpigofjj?utm_source=item-share-cb" rel="noopener nofollow ugc">Chrome</a></p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70691">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Wed, 23 Apr 2025 13:58:40 +0000</pubDate>
+<pubDate>Wed, 23 Apr 2025 13:58:40 +0000</pubDate>
+</item>
+<item>
+<title>【网站自荐】野生程序员｜花半天时间用 Cursor 做了个足球类游戏站（Football Bros）</title>
+<link>https://meta.appinn.net/t/topic/70668</link>
+<guid>https://meta.appinn.net/t/topic/70668</guid>
+<content:encoded><![CDATA[
+
+<p>大家好！我还是那个周末爱倒腾键盘的野生程序员，日常沉迷用代码给生活开外挂（虽然 80%的工具写完就吃灰了 hhh ）</p>
+<p>自从学会用 Cursor 之后，我也就懒得自己动手写代码了，我更习惯指挥 Ai 工具帮我写代码，那种成就感比我自己写代码更快乐。</p>
+<p>自从上次使用 Cursor 复刻经典游戏「俄罗斯方块」已经过去一个多月了，游戏上线后收到很多陌生朋友的反馈，甚是开心，在此表示感谢。<img alt=":woman_bowing:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/woman_bowing.png?v=14" title=":woman_bowing:" width="20" /><img alt=":woman_bowing:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/woman_bowing.png?v=14" title=":woman_bowing:" width="20" /><img alt=":woman_bowing:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/woman_bowing.png?v=14" title=":woman_bowing:" width="20" /></p>
+<p>这次我搞了个足球类游戏站（ Football Bros ），欢迎大家前去体验。<img alt=":clap:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/clap.png?v=14" title=":clap:" width="20" /><img alt=":clap:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/clap.png?v=14" title=":clap:" width="20" /><img alt=":clap:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/clap.png?v=14" title=":clap:" width="20" /></p>
+<p><img alt=":backhand_index_pointing_right:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/backhand_index_pointing_right.png?v=14" title=":backhand_index_pointing_right:" width="20" />网站地址： <a href="https://onlinefootballbros.com" rel="noopener nofollow ugc">https://onlinefootballbros.com</a></p>
+<p><img alt="" height="434" src="https://onlinefootballbros.com/img/preview.png" width="690" /></p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70668">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Wed, 23 Apr 2025 07:08:25 +0000</pubDate>
+<pubDate>Wed, 23 Apr 2025 07:08:25 +0000</pubDate>
+</item>
+<item>
+<title>寻找一个能本地批量编辑修改浏览器书签网址的软件或浏览器扩展</title>
+<link>https://meta.appinn.net/t/topic/70627</link>
+<guid>https://meta.appinn.net/t/topic/70627</guid>
+<content:encoded><![CDATA[
+
+<h2><a class="anchor" href="https://meta.appinn.net#p-260652-h-1" name="p-260652-h-1"></a>寻找一个能本地批量编辑修改浏览器书签网址的软件或浏览器扩展</h2>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260652-win10win11edgechrome-2" name="p-260652-win10win11edgechrome-2"></a>使用平台为win10，win11。使用浏览器为Edge和Chrome</h2>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260652-h-3" name="p-260652-h-3"></a>使用的需求是：</h2>
+<p>本人在浏览器内收藏了许多待更新的影视资源站（例如每周一次更新的动画和电视剧）。<br />
+现在遇到的问题为影视站的主域名经常更换，我想找一个能批量更新书签主域名的扩展或者软件，这样在影视站变更主域名时，我可以批量编辑这部分书签。</p>
+<p>请优先推荐能在本地编辑的工具。<br />
+如果是需要先上传到云收藏再编辑的，麻烦推荐时提示一下。</p>
+<p>如果解决方案是先下载所有书签，再批量编辑，最后上传替换全部书签的，请不要推荐了。这种方式太繁琐了。因为本人总书签有2000多个，需要批量修改影视书签只有几十个，操作不太方便。</p>
+            <p><small>3 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70627">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Tue, 22 Apr 2025 07:47:30 +0000</pubDate>
+<pubDate>Tue, 22 Apr 2025 07:47:30 +0000</pubDate>
+</item>
+<item>
+<title>电脑上的chrome有没有插件能够统一播放器</title>
+<link>https://meta.appinn.net/t/topic/70534</link>
+<guid>https://meta.appinn.net/t/topic/70534</guid>
+<content:encoded><![CDATA[
+
+<h2><a class="anchor" href="https://meta.appinn.net#p-260235-chrome-1" name="p-260235-chrome-1"></a>电脑上的chrome有没有插件能够统一播放器</h2>
+<p>电脑上的chrome有没有插件能够统一播放器。<br />
+像手机端的夸克、qq浏览器那样能够把视频的播放器变成统一的界面<br />
+是技术限制没办法实现吗</p>
+            <p><small>3 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70534">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Sun, 20 Apr 2025 22:45:04 +0000</pubDate>
+<pubDate>Sun, 20 Apr 2025 22:45:04 +0000</pubDate>
+</item>
+<item>
+<title>Google Chrome 修复了一个二十年悬而未决的 bug</title>
+<link>https://meta.appinn.net/t/topic/70516</link>
+<guid>https://meta.appinn.net/t/topic/70516</guid>
+<content:encoded><![CDATA[
+
+<p>Google 修复了一个 Chrome 当中二十年未解决的 bug，这个会导致用户历史信息泄露。132至135版本可以通过一个选项开启，136会直接启用。</p>
+<p><img alt=":rolled_up_newspaper:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/rolled_up_newspaper.png?v=14" title=":rolled_up_newspaper:" width="20" /> <a href="https://alternativeto.net/news/2025/4/google-patches-20-year-old-chrome-bug-that-exposed-users-browsing-history/">https://alternativeto.net/news/2025/4/google-patches-20-year-old-chrome-bug-that-exposed-users-browsing-history/</a></p>
+            <p><small>2 个帖子 - 2 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70516">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Sun, 20 Apr 2025 06:31:08 +0000</pubDate>
+<pubDate>Sun, 20 Apr 2025 06:31:08 +0000</pubDate>
+</item>
+<item>
+<title>Tubly Downloader - Chrome插件下载YouTube 4K, MP3, Shorts</title>
+<link>https://meta.appinn.net/t/topic/70462</link>
+<guid>https://meta.appinn.net/t/topic/70462</guid>
+<content:encoded><![CDATA[
+
+<h2><a class="anchor" href="https://meta.appinn.net#p-259923-h-1" name="p-259923-h-1"></a>软件名称</h2>
+<p>Tubly Downloader</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259923-h-2" name="p-259923-h-2"></a>官方网站</h2>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img class="site-icon" height="48" src="https://tubly.download/favicon.ico" width="48" />
+
+      <a href="https://tubly.download/zh/index.html?v6" rel="noopener nofollow ugc" target="_blank">Tubly YouTube Downloader</a>
+  </header>
+
+  <article class="onebox-body">
+    
+
+<h3><a href="https://tubly.download/zh/index.html?v6" rel="noopener nofollow ugc" target="_blank">Tubly YouTube Downloader - Chrome扩展用于4K和MP3下载</a></h3>
+
+  <p>下载YouTube视频和短视频，支持4K或HD 1080p。使用我们的Chrome扩展立即将YouTube转换为MP3和MP4。无广告，无需额外软件。</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both;"></div>
+</aside>
+
+<h2><a class="anchor" href="https://meta.appinn.net#p-259923-h-3" name="p-259923-h-3"></a>应用平台</h2>
+<p>Chrome浏览器扩展，适用于所有Chromium浏览器（Edge，Opera，Brave，Vivaldi等等）</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259923-h-4" name="p-259923-h-4"></a>一句简介</h2>
+<p>Chrome浏览器扩展用以一键下载YouTube 4K视频和YouTube Shorts、转换MP3。</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259923-h-5" name="p-259923-h-5"></a>应用介绍</h2>
+<h3><a class="anchor" href="https://meta.appinn.net#p-259923-h-6" name="p-259923-h-6"></a>功能介绍</h3>
+<ul>
+<li>
+<p>超高清视频下载，最高支持4K/8K（取决于源视频质量）</p>
+</li>
+<li>
+<p>内置MP3转换器直接将YouTube视频下载为320kbps MP3</p>
+</li>
+<li>
+<p>支持短视频下载</p>
+</li>
+<li>
+<p>YouTube页面登录后可下载私人视频或会员专属视频</p>
+</li>
+<li>
+<p>高速稳定，下载超长视频无压力</p>
+</li>
+<li>
+<p>仅~2MB，无需外部软件，干净、无广告</p>
+</li>
+</ul>
+<h3><a class="anchor" href="https://meta.appinn.net#p-259923-h-7" name="p-259923-h-7"></a>截图预览</h3>
+<p>Demo视频</p>
+          <div class="onebox video-onebox">
+            <video controls="" height="100%" width="100%">
+              <source src="https://tubly.download/assets/demo.webm" />
+              <a href="https://tubly.download/assets/demo.webm" rel="noopener nofollow ugc">https://tubly.download/assets/demo.webm</a>
+            </video>
+          </div>
+
+<p><img alt="4K" height="500" src="https://h1.appinn.me/file/1744765216595_main.webp" width="609" /></p>
+<p><img alt="Shorts" height="500" src="https://h1.appinn.me/file/1744765303229_shorts.webp" width="390" /></p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259923-h-8" name="p-259923-h-8"></a>使用说明（附首月免费促销码）</h2>
+<ul>
+<li>
+<p>Tubly Downloader是一款按月订阅付费应用（$1.49/月），所有新用户无需注册可试用下载10个高清视频</p>
+</li>
+<li>
+<p>结束试用后可以注册账号并使用促销码获得首月免费，促销码是小众软件域名名称全大写字母：AP***N，促销码数量有限，有效期至2025-04-26</p>
+</li>
+</ul>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70462">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Fri, 18 Apr 2025 08:06:07 +0000</pubDate>
+<pubDate>Fri, 18 Apr 2025 08:06:07 +0000</pubDate>
+</item>
+<item>
+<title>程序员真的会用Ai辅助开发吗？</title>
+<link>https://meta.appinn.net/t/topic/70830</link>
+<guid>https://meta.appinn.net/t/topic/70830</guid>
+<content:encoded><![CDATA[
+
+<p>最近接了一个比较急的开发项目，公司官网难度倒是不高，都是很简单的表单，不过就是很急。我记得前阵子看到社区有人分享前端开发工具<a href="https://cloneui.org/" rel="noopener nofollow ugc">Cloneui</a>还挺给力的，我就上传了草图，就给生成了一个官网的框架，的确是蛮省时间，就是不能完全代替，有些地方还是要自己调整。我就想问问其它程序员你们会用AI开发吗？</p>
+            <p><small>10 个帖子 - 10 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70830">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Sun, 27 Apr 2025 06:37:18 +0000</pubDate>
+<pubDate>Sun, 27 Apr 2025 06:37:18 +0000</pubDate>
+</item>
+<item>
+<title>求推荐“稍后读”类App</title>
+<link>https://meta.appinn.net/t/topic/70483</link>
+<guid>https://meta.appinn.net/t/topic/70483</guid>
+<content:encoded><![CDATA[
+
+<p>如题，求推荐“稍后读”类App</p>
+<p>本人大概用过三四个，但都是挺久之前了，现在想重新拾起来</p>
+<p>需求：</p>
+<ol>
+<li>多端同步</li>
+<li>多种文章（网页、公众号等）正常解析</li>
+<li>便宜点<img alt=":sob:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/sob.png?v=14" title=":sob:" width="20" /></li>
+<li>（可选的）AI功能（不是刚需，阅读还是自己来比较好）</li>
+<li>（可选的）与Obisidan集成</li>
+<li>（可选的）开源自部署</li>
+</ol>
+<p>谢谢大家<img alt=":face_holding_back_tears:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/face_holding_back_tears.png?v=14" title=":face_holding_back_tears:" width="20" /></p>
+            <p><small>26 个帖子 - 16 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70483">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Sat, 19 Apr 2025 08:20:41 +0000</pubDate>
+<pubDate>Sat, 19 Apr 2025 08:20:41 +0000</pubDate>
+</item>
+<item>
+<title>【开发者自荐】【限时免费】相册清理神器：相册瘦身！</title>
+<link>https://meta.appinn.net/t/topic/66734</link>
+<guid>https://meta.appinn.net/t/topic/66734</guid>
+<content:encoded><![CDATA[
+
+<h2><a class="anchor" href="https://meta.appinn.net#p-248956-h-1" name="p-248956-h-1"></a>软件名称</h2>
+<p>相册瘦身</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-248956-h-2" name="p-248956-h-2"></a>平台</h2>
+<p>iOS</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-248956-h-3" name="p-248956-h-3"></a>推荐类型</h2>
+<p>开发者自荐</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-248956-app-4" name="p-248956-app-4"></a>为什么要做这款APP？</h2>
+<p>iphone 手机储存严重不足，相册瘦身的使命是：愉快的享受着相册中的美好时刻的同时，顺便把空间清理一番。</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-248956-h-5" name="p-248956-h-5"></a>截图</h2>
+<p>                    <a class="onebox" href="https://h1.appinn.me/file/1745393782566_3381745393763_.pic_hd.jpg" rel="noopener nofollow ugc" target="_blank">
+            <img height="381" src="https://h1.appinn.me/file/1745393782566_3381745393763_.pic_hd.jpg" width="690" />
+          </a>
+
+</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-248956-h-6" name="p-248956-h-6"></a>应用现在主要功能</h2>
+<p>1、左滑删除，右滑保存，批量一键清理超方便。<br />
+2、视频可以按大小排序，优先清理占空间的大文件。<br />
+3、支持压缩视频，压缩前后清晰分类，管理超顺手。<br />
+4、Live Photo 转静态图，瞬间省下一堆空间。<br />
+5、 完全离线，隐私友好，啥都不会上传。<br />
+6、看过或收藏过的视频会自动标记，避免误删。<br />
+7、就算全屏看视频也能批量勾选，超贴心。</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-248956-h-7" name="p-248956-h-7"></a>下载地址</h2>
+<p>iOS：<a href="https://apps.apple.com/us/app/albumslim/id6739241556" rel="noopener nofollow ugc">相册瘦身</a></p>
+<p>#<span class="hashtag-raw">#最后</span></p>
+<p>觉得好用的话，记得在App Store帮我点个好评，这对于独立开发的我意义重大，真的非常感谢！</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-248956-h-8" name="p-248956-h-8"></a>宣传视频</h2>
+<p></p>
+            <p><small>8 个帖子 - 4 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/66734">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Thu, 20 Feb 2025 08:20:58 +0000</pubDate>
+<pubDate>Thu, 20 Feb 2025 08:20:58 +0000</pubDate>
+</item>
+<item>
+<title>求一个todolist+日历的应用</title>
+<link>https://meta.appinn.net/t/topic/70595</link>
+<guid>https://meta.appinn.net/t/topic/70595</guid>
+<content:encoded><![CDATA[
+
+<p>目前工作在用的日历和待办清单想和生活分开，手机是iPhone电脑是Windows，目前的方案是微软的todo+Notion Calendar，想找一个在Google日历和微软日历体系之外的日历应用，ios+window平台能同步。<br />
+自己找了any.do，但是app里读取的是apple的日历，window客户端只能用Google和微软的日历。<br />
+谢谢啦！</p>
+            <p><small>9 个帖子 - 6 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70595">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Tue, 22 Apr 2025 01:42:13 +0000</pubDate>
+<pubDate>Tue, 22 Apr 2025 01:42:13 +0000</pubDate>
+</item>
+<item>
+<title>同一个wifi下，localsend在安卓端搜索不到ipad</title>
+<link>https://meta.appinn.net/t/topic/70654</link>
+<guid>https://meta.appinn.net/t/topic/70654</guid>
+<content:encoded><![CDATA[
+
+<p>如题，连的同一个wifi，pad上最开始安装完localsend的时候能被手机搜索到</p>
+<p>第二次使用搜索不到了，但是能靠输入标签发送从手机发送文件到pad</p>
+<p>现在输入标签和ip地址都没用了 <img alt=":sweat_smile:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/sweat_smile.png?v=14" title=":sweat_smile:" width="20" />，我只能通过链接下载（不过这也太费劲了 <img alt=":rofl:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/rofl.png?v=14" title=":rofl:" width="20" />）</p>
+<p>有没有大佬遇到过这种情况</p>
+            <p><small>6 个帖子 - 4 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70654">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Wed, 23 Apr 2025 02:29:06 +0000</pubDate>
+<pubDate>Wed, 23 Apr 2025 02:29:06 +0000</pubDate>
+</item>
+<item>
+<title>【自荐】全能字词典 - 权威字典随心查[免费不限字数]</title>
+<link>https://meta.appinn.net/t/topic/70506</link>
+<guid>https://meta.appinn.net/t/topic/70506</guid>
+<content:encoded><![CDATA[
+
+<h2><a class="anchor" href="https://meta.appinn.net#p-260127-h-1" name="p-260127-h-1"></a>软件名称</h2>
+<p>全能字词典 - 全功能汉语学习神器</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260127-h-2" name="p-260127-h-2"></a>应用平台</h2>
+<ul>
+<li>iOS （iPhone、iPad）</li>
+<li>macOS（MacBook）</li>
+</ul>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260127-h-3" name="p-260127-h-3"></a>推荐类型</h2>
+<p>【开发者自荐】</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260127-h-4" name="p-260127-h-4"></a>简介</h2>
+<p>一款不限制查询字数，完全免费好用的字典工具<br />
+一款汉语学习词典，易错字、易错多音、助你轻松学<br />
+一款诗词学习工具，诗词鉴赏全场景</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260127-h-5" name="p-260127-h-5"></a>功能介绍</h2>
+<p>1、提笔忘字？笔顺怎么书写？汉字几个读音？部首是？</p>
+<p>汉字即查即用，<br />
+解释详尽.权威准确<br />
+笔顺动画演示，正确书写<br />
+支持按字、按笔画、按部首、按拼音查询，<br />
+可查该字所有信息，<br />
+同时支持查看手写笔顺动画演示。</p>
+<p>2、词语深度辨析库</p>
+<p>近义词 / 反义词：一键拓展词汇量，精准匹配语境用词；</p>
+<p>易错精讲：聚焦读音（如 “拘泥 [nì]” 非 “拘泥 [ní]”）、字形（“松弛” vs “松驰”）及生活高频误用，告别表达误区。</p>
+<p>3、诗词精读殿堂</p>
+<p>收录中小学必背及经典古诗词，逐篇搭配深度赏析，解析创作背景、艺术手法与文化内涵，助您读懂诗意，感受文学之美。</p>
+<p>· 纯干货—— 学习体验无干扰，汉语精进更高效！</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260127-h-6" name="p-260127-h-6"></a>范例</h2>
+<p>                    <a class="onebox" href="https://h1.appinn.me/file/1745114314231_%E6%88%AA%E5%B1%8F2025-04-20%2009.57.50.png" rel="noopener nofollow ugc" target="_blank">
+            <img height="474" src="https://h1.appinn.me/file/1745114314231_%E6%88%AA%E5%B1%8F2025-04-20%2009.57.50.png" width="690" />
+          </a>
+
+<br />
+                    <a class="onebox" href="https://h1.appinn.me/file/1745114229418_Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-04-20%20at%2009.21.58.png" rel="noopener nofollow ugc" target="_blank">
+            <img height="374" src="https://h1.appinn.me/file/1745114229418_Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-04-20%20at%2009.21.58.png" width="690" />
+          </a>
+
+</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260127-h-7" name="p-260127-h-7"></a>下载地址</h2>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img class="site-icon" height="48" src="https://apps.apple.com/assets/images/favicon/favicon-apps-48-fad34e0d87e86dcf72ded1faff4ba9d0.png" width="48" />
+
+      <a href="https://apps.apple.com/cn/app/%E5%85%A8%E8%83%BD%E5%AD%97%E8%AF%8D%E5%85%B8/id6744690206" rel="noopener nofollow ugc" target="_blank">App&nbsp;Store</a>
+  </header>
+
+  <article class="onebox-body">
+    <div class="aspect-image"><img class="thumbnail" height="362" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/1f/b4/d41fb481-13db-179b-9e9b-53a7c7f6e5bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png" width="690" /></div>
+
+<h3><a href="https://apps.apple.com/cn/app/%E5%85%A8%E8%83%BD%E5%AD%97%E8%AF%8D%E5%85%B8/id6744690206" rel="noopener nofollow ugc" target="_blank">‎全能字词典</a></h3>
+
+  <p>‎全功能汉语学习神器：免费无限制使用，覆盖字典查询、词语辨析、诗词鉴赏全场景，助您精准掌握汉语知识！
+
+1、 权威字典随心查
+支持单字、词语快速检索，释义精准详实，满足学习、工作、生活全场景需求，查词无门槛，使用不设限。
+
+2、 词语深度辨析库
+近义词 / 反义词：一键拓展词汇量，精准匹配语境用词；
+易错精讲：聚焦读音（如 “拘泥 [nì]” 非 “拘泥 [ní]”）、字形（“松弛” vs “松驰”）及生活高频误用，告别表达误区。
+
+3、...</p>
+
+
+  </article>
+
+  <div class="onebox-metadata">
+    
+    
+  </div>
+
+  <div style="clear: both;"></div>
+</aside>
+
+            <p><small>6 个帖子 - 5 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70506">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Sun, 20 Apr 2025 02:24:01 +0000</pubDate>
+<pubDate>Sun, 20 Apr 2025 02:24:01 +0000</pubDate>
+</item>
+<item>
+<title>【自荐】SlowTap｜帮你减少 68% 的屏幕使用时间，感知刷手机的时间</title>
+<link>https://meta.appinn.net/t/topic/70153</link>
+<guid>https://meta.appinn.net/t/topic/70153</guid>
+<content:encoded><![CDATA[
+
+<h2><a class="anchor" href="https://meta.appinn.net#p-259330-h-1" name="p-259330-h-1"></a>软件名称</h2>
+<p><a href="https://apps.apple.com/app/id6743831804" rel="noopener nofollow ugc">SlowTap</a></p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259330-h-2" name="p-259330-h-2"></a>应用平台</h2>
+<p>iOS</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259330-h-3" name="p-259330-h-3"></a>推荐类型</h2>
+<p>【开发者自荐】</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259330-h-4" name="p-259330-h-4"></a>一句简介</h2>
+<p>「SlowTap」是一款可以帮你感知屏幕使用时间的 App。</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259330-h-5" name="p-259330-h-5"></a>应用简介</h2>
+<p>「SlowTap」通过快捷指令配合，让你在使用 App 前进行短暂的呼吸，用短暂的时间思考使用 App 的真正目的。</p>
+<p>在使用 App 的过程中，「SlowTap」支持三种方式让你感知时间流逝：</p>
+<ul>
+<li>实时活动计时</li>
+<li>通知</li>
+<li>应用锁</li>
+</ul>
+<p>三种感知方式是渐进的，可以根据具体的 App 设置不同的方式。比如：抖音，我除了呼吸和实时活动，我会设置通知时间间隔是 3 分钟，应用锁是 10 分钟；微信，不会进行呼吸，会开启实时活动和通知，应用所也是关闭状态。可以根据 App 和自己的需求来设置。</p>
+<p>「SlowTap」还支持极简番茄钟，可以通过应用锁，避免手机的干扰。<br />
+所有的 App 使用记录和专注记录都会在时间线页面展示，可以看到我们一天的时间消耗。<br />
+<img alt="296shots_so.png" height="500" src="https://h1.appinn.me/file/1744798480575_296shots_so.png" width="666" /></p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259330-h-6" name="p-259330-h-6"></a>下载地址</h2>
+<p><a href="https://apps.apple.com/app/id6743831804" rel="noopener nofollow ugc">App Store</a></p>
+<p>永久会员正在早鸟价优惠中。</p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70153">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Wed, 16 Apr 2025 11:57:31 +0000</pubDate>
+<pubDate>Wed, 16 Apr 2025 11:57:31 +0000</pubDate>
+</item>
+<item>
+<title>[Mac App 送码] CursorFlow 让你的鼠标轨迹可视化，会议投屏演示、录屏神器！</title>
+<link>https://meta.appinn.net/t/topic/70889</link>
+<guid>https://meta.appinn.net/t/topic/70889</guid>
+<content:encoded><![CDATA[
+
+<h2><a class="anchor" href="https://meta.appinn.net#p-261786-h-1" name="p-261786-h-1"></a>介绍</h2>
+<p>朋友们好！五一假期快到了，准备送一波福利：CursorFlow Pro 激活码+限时特惠！</p>
+<p>这是根据我自己的需求开发的一款 Mac App ，之前和同事开会投屏的时候，他们总是跟不上我的操作，所以想让鼠标轨迹可视化，还是键盘按下的提示。</p>
+<p>为了增加趣味性，在自定义颜色笔刷的基础上又加了闪电、彩虹、魔方棒的特效，欢迎体验~</p>
+<p>App Store 直达： <a class="inline-onebox" href="https://apps.apple.com/cn/app/cursorflow/id6744538347?mt=12" rel="noopener nofollow ugc">‎Mac&nbsp;App&nbsp;Store 上的“CursorFlow”</a></p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-261786-h-2" name="p-261786-h-2"></a>预览</h2>
+<p><img alt="" height="500" src="https://pica.zhimg.com/80/v2-32d1af4ebcdf10a88da6d979ca965643_1440w.png" width="621" /></p>
+<p><img alt="" height="431" src="https://picx.zhimg.com/80/v2-3b28d98c0a4faae2a129ed150950a9a9_1440w.png" width="690" /></p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-261786-pro-3" name="p-261786-pro-3"></a>Pro 版激活码</h2>
+<p>99EA3K3LJTA9<br />
+REJHTYRMRJWX<br />
+AH3NY96MRWXA<br />
+MT7JJXMAYEHL<br />
+MEM9EL369FNA<br />
+R3WNYPFAMWL3<br />
+Y49YXP6JKRL7<br />
+H3EJAPMHH3MT<br />
+MFHFMRLEF7ER<br />
+WF9T4XKL9KKX<br />
+RTNPPR4LT7TX<br />
+9AFNL79PWAR9<br />
+MN963JA96LJN<br />
+YM3XM36PEPY3<br />
+KKELYPWK39XN<br />
+PMNKP7MM9PNW<br />
+H6XWWMAK9TA7<br />
+XFW7XETNJL7R</p>
+<p>即使你没抢到激活码，也可以放心内购，美区 $4.99 ，今天开始到五一假期国区仅需 ￥ 3</p>
+<p>Have fun <img alt=":wink:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/wink.png?v=14" title=":wink:" width="20" /></p>
+            <p><small>3 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70889">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Mon, 28 Apr 2025 15:12:44 +0000</pubDate>
+<pubDate>Mon, 28 Apr 2025 15:12:44 +0000</pubDate>
+</item>
+<item>
+<title>【自荐】Daan：一个完全开源免费的大模型客户端，支持MCP服务器，界面美观轻量</title>
+<link>https://meta.appinn.net/t/topic/70669</link>
+<guid>https://meta.appinn.net/t/topic/70669</guid>
+<content:encoded><![CDATA[
+
+<h2><a class="anchor" href="https://meta.appinn.net#p-260835-h-1" name="p-260835-h-1"></a>软件名称</h2>
+<p>Daan（答案）</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260835-h-2" name="p-260835-h-2"></a>应用平台</h2>
+<p>Web平台+桌面端。</p>
+<p><strong>官网：</strong> <a href="https://daan.one" rel="noopener nofollow ugc">https://daan.one</a><br />
+（包含细致的使用说明，右上角切中文）</p>
+<p><strong>开源地址：</strong> <a class="inline-onebox" href="https://github.com/pluveto/daan" rel="noopener nofollow ugc">GitHub - pluveto/daan: ✨Lightweight LLM Client with MCP 🔌 &amp; Characters 👤</a><br />
+（所有功能都开源，不是只开 UI 不开功能的假开源，求 Star！）</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260835-h-3" name="p-260835-h-3"></a>推荐类型</h2>
+<p>【开发者自荐】</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260835-h-4" name="p-260835-h-4"></a>一句简介</h2>
+<p>一个简洁、轻量级的客户端，用于与大型语言模型交互，提供流畅高效的 AI 体验。包含众多提高生产力的功能。</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260835-h-5" name="p-260835-h-5"></a>应用简介</h2>
+<ul>
+<li>
+<p><strong><img alt=":sparkles:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/sparkles.png?v=14" title=":sparkles:" width="20" /> 极简界面:</strong> 专注于对话，无干扰设计。</p>
+</li>
+<li>
+<p><strong><img alt=":electric_plug:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/electric_plug.png?v=14" title=":electric_plug:" width="20" /> MCP (模型上下文协议):</strong> 通过外部工具和知识增强 AI 的回应。</p>
+</li>
+<li>
+<p><strong><img alt=":bust_in_silhouette:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/bust_in_silhouette.png?v=14" title=":bust_in_silhouette:" width="20" /> 角色定制:</strong> 创建并复用具有特定提示词和设置的聊天角色。</p>
+</li>
+<li>
+<p><strong><img alt=":counterclockwise_arrows_button:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/counterclockwise_arrows_button.png?v=14" title=":counterclockwise_arrows_button:" width="20" /> 灵活模型选择:</strong> 轻松切换 OpenAI 模型或添加自定义模型。</p>
+</li>
+<li>
+<p><strong><img alt=":key:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/key.png?v=14" title=":key:" width="20" /> 自定义 API 端点:</strong> 使用其他兼容 OpenAI 规范的 API 服务。</p>
+</li>
+<li>
+<p><strong><img alt=":locked:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/locked.png?v=14" title=":locked:" width="20" /> 安全本地存储:</strong> API 密钥安全地存储在您的浏览器中。</p>
+</li>
+<li>
+<p><strong><img alt=":gear:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/gear.png?v=14" title=":gear:" width="20" /> 个性化设置:</strong> 自定义系统提示词、历史记录长度等。</p>
+</li>
+<li>
+<p><strong><img alt=":artist_palette:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/artist_palette.png?v=14" title=":artist_palette:" width="20" /> 主题切换:</strong> 包含深色模式，呵护双眼。</p>
+</li>
+<li>
+<p><strong><img alt=":stopwatch:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/stopwatch.png?v=14" title=":stopwatch:" width="20" /> 时间戳:</strong> 轻松追踪对话历史。</p>
+</li>
+<li>
+<p><strong><img alt=":memo:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/memo.png?v=14" title=":memo:" width="20" /> 聊天摘要:</strong> 快速回顾对话主题。</p>
+</li>
+<li>
+<p><strong><img alt=":bar_chart:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/bar_chart.png?v=14" title=":bar_chart:" width="20" /> Token 估算:</strong> 监控消息的 Token 使用量。</p>
+</li>
+<li>
+<p><strong><img alt=":pushpin:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/pushpin.png?v=14" title=":pushpin:" width="20" /> 对话置顶:</strong> 让重要聊天保持可见易访问。</p>
+</li>
+</ul>
+<p>桌面端预计一周内上线（比较容易实现，套个Electron的问题）</p>
+<p>针对手机访问优化过，手机上也可以用！</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260835-h-6" name="p-260835-h-6"></a>截图预览</h2>
+<p><img alt="" height="500" src="https://h1.appinn.me/file/1745391368225_character.screenshot.png" width="530" /><br />
+<img alt="" height="333" src="https://h1.appinn.me/file/1745391371775_mcp.screenshot.png" width="690" /><br />
+<img alt="" height="500" src="https://h1.appinn.me/file/1745391373056_screenshot-dark.png" width="639" /><br />
+<img alt="" height="500" src="https://h1.appinn.me/file/1745391366025_screenshot-light.png" width="639" /></p>
+<p>对了，我还开源了底层包：<a class="inline-onebox" href="https://www.npmjs.com/package/@moinfra/mcp-client-sdk?activeTab=versions" rel="noopener nofollow ugc">@moinfra/mcp-client-sdk - npm</a> 这应该是第一个从官方裁剪的支持客户端的 MCP 客户端 SDK，欢迎开发者们尝试。基于这个库，Daan 也是第一个纯 Web 本地实现 MCP 服务器（不需要中转、代理）的大模型客户端。后续功能尽请期待。</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260835-h-7" name="p-260835-h-7"></a>版权</h2>
+<p>非商业用途免费，商业用途也免费（但是需要告知本人）！如果有运营API中转的，可以免费拿我的去改，换LOGO、名称之类的随意，保留出处即可。</p>
+            <p><small>4 个帖子 - 3 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70669">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Wed, 23 Apr 2025 07:14:20 +0000</pubDate>
+<pubDate>Wed, 23 Apr 2025 07:14:20 +0000</pubDate>
+</item>
+<item>
+<title>【开源自荐】BongoCat 桌宠全新升级！开源 × 跨平台，快来撸猫！</title>
+<link>https://meta.appinn.net/t/topic/70618</link>
+<guid>https://meta.appinn.net/t/topic/70618</guid>
+<content:encoded><![CDATA[
+
+<p><img alt="iShot_2025-04-22_14.47.57.gif" height="428" src="https://h1.appinn.me/file/1745304526119_iShot_2025-04-22_14.47.57.gif" width="690" /></p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260635-h-1" name="p-260635-h-1"></a>开源地址</h2>
+<p>仓库地址：<a href="https://github.com/ayangweb/BongoCat" rel="noopener nofollow ugc">BongoCat</a></p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260635-h-2" name="p-260635-h-2"></a>开发背景</h2>
+<p>本项目灵感来源于 <a href="https://github.com/MMmmmoko" rel="noopener nofollow ugc">MMmmmoko</a> 大佬的 <a href="https://github.com/MMmmmoko/Bongo-Cat-Mver" rel="noopener nofollow ugc">Bongo Cat Mver</a>，相信很多朋友在直播间或社交平台上都曾见过这款超萌的桌面宠物，深受大家的喜爱。由于原项目仅支持 Windows，而我是一个深度 macOS 用户，因此我希望在自己的设备上也能体验这只可爱的 BongoCat。于是，我决定开发一个适配 macOS 的版本。</p>
+<p>此外，得益于 Tauri 框架的强大跨平台能力，本项目不仅支持 macOS，还能在 Windows 和 Linux 上运行，旨在让更多用户能够与这只可爱的猫咪互动！</p>
+<p>实际上，早在去年我就计划开发这个项目，但遇到了不少技术瓶颈。后来，在开发另一个开源项目 <a href="https://github.com/EcoPasteHub/EcoPaste" rel="noopener nofollow ugc">EcoPaste</a> 的过程中，我积累了更多技术经验，因此这次的开发过程顺利得多。</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260635-h-3" name="p-260635-h-3"></a>项目简介</h2>
+<p>BongoCat 是一款轻量、开源的桌面宠物应用，带来趣味与陪伴。主要特性包括：</p>
+<ul>
+<li>
+<p><strong>跨平台兼容</strong>：基于 Tauri v2 开发，支持 macOS、Windows 和 Linux。</p>
+</li>
+<li>
+<p><strong>实时互动</strong>：根据键盘输入或鼠标操作，同步移动鼠标或敲击键盘，活灵活现。</p>
+</li>
+<li>
+<p><strong>开源免费</strong>：代码完全公开，欢迎社区贡献与反馈。</p>
+</li>
+</ul>
+<p>无论是为直播间增添趣味，还是作为日常工作的桌面小伙伴，BongoCat 都能为你带来欢乐！</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260635-h-4" name="p-260635-h-4"></a>如何下载</h2>
+<p>请前往 <a href="https://github.com/ayangweb/BongoCat/releases" rel="noopener nofollow ugc">Releases</a> 页面，下载最新版本。</p>
+<h3><a class="anchor" href="https://meta.appinn.net#p-260635-macos-5" name="p-260635-macos-5"></a>macOS</h3>
+<ul>
+<li>Apple Silicon：下载 <code>BongoCat_aarch64.dmg</code></li>
+<li>Intel Chip：下载 <code>BongoCat_x64.dmg</code></li>
+</ul>
+<h3><a class="anchor" href="https://meta.appinn.net#p-260635-windows-6" name="p-260635-windows-6"></a>Windows</h3>
+<ul>
+<li>64 位系统：下载 <code>BongoCat_x64.exe</code></li>
+<li>32 位系统：下载 <code>BongoCat_x86.exe</code></li>
+<li>ARM64 架构：下载 <code>BongoCat_arm64.exe</code></li>
+</ul>
+<h3><a class="anchor" href="https://meta.appinn.net#p-260635-linux-x11-7" name="p-260635-linux-x11-7"></a>Linux (X11)</h3>
+<ul>
+<li>Debian / Ubuntu：下载 <code>BongoCat_amd64.deb</code></li>
+<li>Fedora / RHEL：下载 <code>BongoCat_x86_64.rpm</code></li>
+<li>通用版本：下载 <code>BongoCat_amd64.AppImage</code></li>
+</ul>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260635-h-8" name="p-260635-h-8"></a>未来计划</h2>
+<ul>
+<li>
+<p>修复社区反馈的已知问题，提升稳定性与兼容性。</p>
+</li>
+<li>
+<p>让猫咪触发模型动作，提升互动性与可玩性。</p>
+</li>
+<li>
+<p>支持导入自定义模型，打造属于你的专属桌宠。</p>
+</li>
+<li>
+<p>提供 Web 版本，通过 OBS 浏览器源直接展示猫咪。</p>
+</li>
+</ul>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260635-h-9" name="p-260635-h-9"></a>致谢</h2>
+<p>感谢 <a href="https://github.com/MMmmmoko" rel="noopener nofollow ugc">MMmmmoko</a> 提供的原始项目灵感，以及 Tauri 社区的强力支持！同时，也欢迎大家提出宝贵的建议或贡献代码，让 BongoCat 变得更好。</p>
+<p>如果你喜欢这个项目，请动动小手给个 <strong>Star</strong> <img alt=":glowing_star:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/glowing_star.png?v=14" title=":glowing_star:" width="20" />，你的支持是我继续开发的动力！同时，也欢迎在 <a href="https://github.com/ayangweb/BongoCat/issues" rel="noopener nofollow ugc">Issues</a> 中反馈问题或提出新想法！</p>
+            <p><small>11 个帖子 - 6 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70618">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Tue, 22 Apr 2025 06:51:13 +0000</pubDate>
+<pubDate>Tue, 22 Apr 2025 06:51:13 +0000</pubDate>
+</item>
+<item>
+<title>【开发自荐】Dockit 我的窗口管理方式</title>
+<link>https://meta.appinn.net/t/topic/70184</link>
+<guid>https://meta.appinn.net/t/topic/70184</guid>
+<content:encoded><![CDATA[
+
+<h2><a class="anchor" href="https://meta.appinn.net#p-259434-h-1" name="p-259434-h-1"></a>软件名称</h2>
+<p>Dockit</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259434-h-2" name="p-259434-h-2"></a>应用平台</h2>
+<p><img alt=":red_apple:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/red_apple.png?v=14" title=":red_apple:" width="20" />macOS</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259434-h-3" name="p-259434-h-3"></a>推荐类型</h2>
+<p>【开发者自荐】</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259434-h-4" name="p-259434-h-4"></a>一句简介</h2>
+<p><strong>用一次就回不去的系统级窗口停靠工具，治好了我的窗口多动症！</strong></p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259434-h-5" name="p-259434-h-5"></a>少废话先看东西</h2>
+<p><img alt="录制于 2025-04-15 10.59.44.gif" height="388" src="https://h1.appinn.me/file/1744776003785_%E5%BD%95%E5%88%B6%E4%BA%8E%202025-04-15%2010.59.44.gif" width="690" /></p>
+<h4><a class="anchor" href="https://meta.appinn.net#p-259434-h-6" name="p-259434-h-6"></a><img alt=":small_blue_diamond:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/small_blue_diamond.png?v=14" title=":small_blue_diamond:" width="20" /> 一键磁吸窗口</h4>
+<p>快捷键⌘+方向键直接贴边，鼠标靠近边缘自动展开，像系统原生功能般顺滑（PS：拖拽还能解除停靠！）</p>
+<h4><a class="anchor" href="https://meta.appinn.net#p-259434-h-7" name="p-259434-h-7"></a><img alt=":small_blue_diamond:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/small_blue_diamond.png?v=14" title=":small_blue_diamond:" width="20" /> 多窗口协同王者</h4>
+<p>写代码/做设计/查资料三开不卡顿，窗口自动对齐不乱跑，内存只占50MB（后台默默干活的小透明）</p>
+<h4><a class="anchor" href="https://meta.appinn.net#p-259434-h-8" name="p-259434-h-8"></a><img alt=":small_blue_diamond:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/small_blue_diamond.png?v=14" title=":small_blue_diamond:" width="20" /> 开源无广清流</h4>
+<p>GitHub代码全公开，MIT协议随便改，用Swift写的和MacBook天生绝配～</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259434-h-9" name="p-259434-h-9"></a><img alt=":bullseye:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/bullseye.png?v=14" title=":bullseye:" width="20" /> 真实使用场景</h2>
+<ul>
+<li>❶ 赶论文救命时刻</li>
+<li>左边Word疯狂码字，右边Edge秒贴边框查文献，鼠标一滑参考资料优雅展开！</li>
+<li>❷ 设计师buff加成</li>
+<li>Figma+左侧PS+右侧参考图</li>
+<li>❸ 程序员码代码看日志摸鱼</li>
+<li>主屏敲代码，左侧边挂聊天窗，右侧调试终端看日志… Alt+Tab切换？不存在的！</li>
+</ul>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259434-h-10" name="p-259434-h-10"></a><img alt=":bar_chart:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/bar_chart.png?v=14" title=":bar_chart:" width="20" /> 官方硬核数据</h2>
+<ul>
+<li><img alt=":alarm_clock:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/alarm_clock.png?v=14" title=":alarm_clock:" width="20" /> 窗口管理时间-95%</li>
+<li><img alt=":brain:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/brain.png?v=14" title=":brain:" width="20" /> 内存占用＜1张高清壁纸</li>
+<li><img alt=":gear:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/gear.png?v=14" title=":gear:" width="20" /> 支持无限种排列组合</li>
+</ul>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259434-h-11" name="p-259434-h-11"></a><img alt=":speech_balloon:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/speech_balloon.png?v=14" title=":speech_balloon:" width="20" /> 掏心窝子体验</h2>
+<p>“原本以为这类工具会吃内存，结果Dockit像个系统原生小插件，丝滑到几乎无感！用Swift开发果然和Mac更搭～”</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259434-h-12" name="p-259434-h-12"></a><img alt=":red_question_mark:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/red_question_mark.png?v=14" title=":red_question_mark:" width="20" /> 你可能关心</h2>
+<ul>
+<li>适配性：Intel/M1/M2芯片全支持</li>
+<li>安全性：开源代码可自查，无数据上传</li>
+<li>权限：仅需辅助功能权限</li>
+</ul>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259434-h-13" name="p-259434-h-13"></a>不会使用&amp;遇到问题</h2>
+<p>请上官网查阅：<a class="inline-onebox" href="https://dockit-docs.pages.dev?s=appinn" rel="noopener nofollow ugc">Dockit</a></p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-259434-h-14" name="p-259434-h-14"></a><img alt=":seedling:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/seedling.png?v=14" title=":seedling:" width="20" /> 如何获取</h2>
+<ul>
+<li>wx 群公告：<a href="https://dockit-docs.pages.dev/community/index?s=appinn" rel="noopener nofollow ugc">https://dockit-docs.pages.dev/community/index?s=appinn</a></li>
+<li><a href="https://github.com/XiCheng000/Dockit/releases" rel="noopener nofollow ugc">Github Releases</a></li>
+</ul>
+<p>如果对你有帮助，请帮忙点点 star <img alt=":glowing_star:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/glowing_star.png?v=14" title=":glowing_star:" width="20" />： <a class="inline-onebox" href="https://github.com/XiCheng000/Dockit" rel="noopener nofollow ugc">GitHub - XiCheng000/Dockit: 一个专注于将窗口停靠到屏幕边缘的应用</a></p>
+            <p><small>5 个帖子 - 4 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70184">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Thu, 17 Apr 2025 06:25:18 +0000</pubDate>
+<pubDate>Thu, 17 Apr 2025 06:25:18 +0000</pubDate>
+</item>
+<item>
+<title>【开发自荐】MacOS平台桌面便签笔记软件！</title>
+<link>https://meta.appinn.net/t/topic/70486</link>
+<guid>https://meta.appinn.net/t/topic/70486</guid>
+<content:encoded><![CDATA[
+
+<p>软件名称<br />
+<strong>NoteGlow</strong></p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260041-h-1" name="p-260041-h-1"></a>应用平台</h2>
+<ul>
+<li>macOS</li>
+</ul>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260041-h-2" name="p-260041-h-2"></a>推荐类型</h2>
+<p>【开发者自荐】</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260041-h-3" name="p-260041-h-3"></a>一句简介</h2>
+<p>NoteGlow是一款美观又实用的Mac便笺应用，让你的笔记随时在桌面或菜单栏中可见。<br />
+无论是记录灵感还是管理日常待办，只需通过快捷键或点击菜单栏，就能快速记下你的想法。支持文本格式编辑和多种主题样式选择。</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260041-h-4" name="p-260041-h-4"></a>应用简介</h2>
+<p>目前已实现的功能有</p>
+<ol>
+<li>所有的便签支持随意拖拽摆放位置</li>
+<li>支持展开\收起，关注重要信息</li>
+<li>支持快捷键快速创建新的便签或打开便签管理主页</li>
+<li>支持多款精美主题切换</li>
+<li>支持常驻桌面或置顶工作区</li>
+</ol>
+<p>使用该软件 [不需要] 注册账户。</p>
+<p>其中， 免费用户可同时使用 3 个便签，支付 38 元即可终身买断，没有任何其他订阅。</p>
+<p>以下功能还在开发中：</p>
+<ol>
+<li>iCloud自动同步</li>
+</ol>
+<p>                    <a class="onebox" href="https://h1.appinn.me/file/1745051458426_%E6%88%AA%E5%B1%8F2025-04-19%2015.43.19.png" rel="noopener nofollow ugc" target="_blank">
+            <img height="431" src="https://h1.appinn.me/file/1745051458426_%E6%88%AA%E5%B1%8F2025-04-19%2015.43.19.png" width="690" />
+          </a>
+
+</p>
+<p>                    <a class="onebox" href="https://h1.appinn.me/file/1745051462629_77shots_so.png" rel="noopener nofollow ugc" target="_blank">
+            <img height="344" src="https://h1.appinn.me/file/1745051462629_77shots_so.png" width="690" />
+          </a>
+
+</p>
+<h2><a class="anchor" href="https://meta.appinn.net#p-260041-h-5" name="p-260041-h-5"></a>官方网站</h2>
+<p><a href="http://noteglow.app/" rel="noopener nofollow ugc">NoteGlow</a></p>
+            <p><small>1 个帖子 - 1 位参与者</small></p>
+            <p><a href="https://meta.appinn.net/t/topic/70486">阅读完整话题</a></p>
+]]></content:encoded>
+<pubDate>Sat, 19 Apr 2025 08:48:50 +0000</pubDate>
+<pubDate>Sat, 19 Apr 2025 08:48:50 +0000</pubDate>
+</item>
 
 <item>
 <title>求一个能完整下载网页文字和图片的chrome插件</title>
