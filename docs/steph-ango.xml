@@ -4,12 +4,12 @@
 <title>Steph Ango</title>
 <link>https://stephango.com/</link>
 
+
 <item>
 <title>How I use Obsidian</title>
 <link>https://stephango.com/vault</link>
 <guid>https://stephango.com/vault</guid>
 <content:encoded><![CDATA[
-
 <p>I use <a class="internal-link" href="/obsidian">Obsidian</a> to think, take notes, write essays, and publish this site. This is my bottom-up approach to note-taking and organizing things I am interested in. It embraces chaos and laziness to create emergent structure.</p>
 
 <p>In Obsidian, a “vault” is simply a folder of files. This is important because it adheres to my <a class="internal-link" href="/file-over-app">file over app</a> philosophy. If you want to create digital artifacts that last, they must be files you can control, in formats that are easy to retrieve and read. Obsidian gives you that freedom.</p>
@@ -175,10 +175,8 @@
   <li><a class="internal-link" href="/todos">How I do my to-dos</a></li>
 </ul>
 ]]></content:encoded>
-
 <pubDate>2023-09-16T00:00:00+00:00</pubDate>
 </item>
-
 <item>
 <title>Self-guaranteeing promises</title>
 <link>https://stephango.com/self-guarantee</link>

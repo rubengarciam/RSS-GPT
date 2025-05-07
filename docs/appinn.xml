@@ -4,12 +4,12 @@
 <title>小众软件官方论坛 - 使用macos标记的话题</title>
 <link>https://meta.appinn.net/tag/macos</link>
 
+
 <item>
 <title>【开发者自荐】一句话AI生成智能日程</title>
 <link>https://meta.appinn.net/t/topic/71082</link>
 <guid>https://meta.appinn.net/t/topic/71082</guid>
 <content:encoded><![CDATA[
-
 <p>软件名称<br />
 Elisi 光点计划</p>
 <p>应用平台<br />
@@ -55,14 +55,12 @@ Elisi AI 通过自然语言处理与语音交互，实现多场景智能规划�
             <p><a href="https://meta.appinn.net/t/topic/71082">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 06 May 2025 05:31:32 +0000</pubDate>
-<pubDate>Tue, 06 May 2025 05:31:32 +0000</pubDate>
 </item>
 <item>
 <title>【开源分享】我开发的一款Chrome/Edge插件：公众号阅读增强器，增加文章目录导航和图片放大预览</title>
 <link>https://meta.appinn.net/t/topic/71045</link>
 <guid>https://meta.appinn.net/t/topic/71045</guid>
 <content:encoded><![CDATA[
-
 <p>平时用电脑看微信公众号文章时，有没有遇到这些痛点：<br />
 ✓ 长文找不到想看的部分，只能拼命滚动<br />
 ✓ 不知道文章结构，读着读着忘了前面讲什么<br />
@@ -83,14 +81,12 @@ Elisi AI 通过自然语言处理与语音交互，实现多场景智能规划�
             <p><a href="https://meta.appinn.net/t/topic/71045">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 04 May 2025 13:55:03 +0000</pubDate>
-<pubDate>Sun, 04 May 2025 13:55:03 +0000</pubDate>
 </item>
 <item>
 <title>【开发者自荐】NoTab - 在当前浏览器页面预览链接</title>
 <link>https://meta.appinn.net/t/topic/70589</link>
 <guid>https://meta.appinn.net/t/topic/70589</guid>
 <content:encoded><![CDATA[
-
 <p>NoTab 是一个浏览器插件，主要功能是在当前页面预览链接，功能列表如下：</p>
 <ul>
 <li>链接预览： 无需打开新标签即可立即查看链接中的内容，帮助你保持专注并减少干扰。</li>
@@ -107,14 +103,12 @@ Elisi AI 通过自然语言处理与语音交互，实现多场景智能规划�
             <p><a href="https://meta.appinn.net/t/topic/70589">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 21 Apr 2025 14:00:55 +0000</pubDate>
-<pubDate>Mon, 21 Apr 2025 14:00:55 +0000</pubDate>
 </item>
 <item>
 <title>【提问】大家平时会用什么在线工具呢？</title>
 <link>https://meta.appinn.net/t/topic/70612</link>
 <guid>https://meta.appinn.net/t/topic/70612</guid>
 <content:encoded><![CDATA[
-
 <p>大家好！</p>
 <p>最近我花了一些时间开发了一个 <strong>前端在线工具站</strong> ，主要是一些实用的小工具，比如二维码生成器、颜色选择器、图片压缩等。目前还在初期阶段，功能不算特别完善，但已经可以正常使用了。</p>
 <p>为了更好地优化这个工具站，我想通过这次发帖向大家请教一些问题，希望能了解大家在日常工作中对在线工具的需求，以及目前有哪些痛点或不满意的点。以下是几个具体的问题（当然也欢迎大家自由讨论）：</p>
@@ -138,14 +132,12 @@ Elisi AI 通过自然语言处理与语音交互，实现多场景智能规划�
             <p><a href="https://meta.appinn.net/t/topic/70612">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 22 Apr 2025 06:08:40 +0000</pubDate>
-<pubDate>Tue, 22 Apr 2025 06:08:40 +0000</pubDate>
 </item>
 <item>
 <title>【浏览器插件】wedock智能搜索 - 聚合AI搜索和传统搜索引擎</title>
 <link>https://meta.appinn.net/t/topic/70811</link>
 <guid>https://meta.appinn.net/t/topic/70811</guid>
 <content:encoded><![CDATA[
-
 <p>主要功能：快捷搜索AI（豆包、元宝、deepseek等）和传统搜索引擎（百度、谷歌等）</p>
 <p>要点：</p>
 <ul>
@@ -183,14 +175,12 @@ Elisi AI 通过自然语言处理与语音交互，实现多场景智能规划�
             <p><a href="https://meta.appinn.net/t/topic/70811">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 26 Apr 2025 12:24:07 +0000</pubDate>
-<pubDate>Sat, 26 Apr 2025 12:24:07 +0000</pubDate>
 </item>
 <item>
 <title>【开发者自荐】Flow Mark - AI 驱动的无侵入式书签归纳，不再焦虑书签管理</title>
 <link>https://meta.appinn.net/t/topic/70692</link>
 <guid>https://meta.appinn.net/t/topic/70692</guid>
 <content:encoded><![CDATA[
-
 <h2><a class="anchor" href="https://meta.appinn.net#p-260916-h-1" name="p-260916-h-1"></a>起因</h2>
 <p>目前市面上的书签管理插件我用着还是有点不太满意，我想要的是那种我一收藏，它自己根据我的使用习惯、我的目录结构来进行分类，而不是重构我的分类。</p>
 <p>于是我就做了这款插件来自动整理收藏，大致用法是你收藏的时候，AI 会自动在右上角帮你推荐收藏的目录。</p>
@@ -226,14 +216,12 @@ Flow Mark尊重用户的隐私，设有隐私模式，可以防止一些隐私�
             <p><a href="https://meta.appinn.net/t/topic/70692">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 23 Apr 2025 13:58:42 +0000</pubDate>
-<pubDate>Wed, 23 Apr 2025 13:58:42 +0000</pubDate>
 </item>
 <item>
 <title>【开发者自荐】Reply Bird - 简单的 X 浏览记录插件</title>
 <link>https://meta.appinn.net/t/topic/70691</link>
 <guid>https://meta.appinn.net/t/topic/70691</guid>
 <content:encoded><![CDATA[
-
 <h2><a class="anchor" href="https://meta.appinn.net#p-260915-h-1" name="p-260915-h-1"></a>起因</h2>
 <p>之前在 X 上刷到一个摆放的很好看的桌面，但是没有收藏，过了大概三天和朋友两天的时候提到了，想给朋友看一下，奈何找不到那个图了，于是做了个记录 X 浏览记录的小插件，分享出来给有需要的人用用，虽然功能很简单。</p>
 <p>后面可能不定期增加些小功能比如搜索、筛选啥的。</p>
@@ -246,14 +234,12 @@ Flow Mark尊重用户的隐私，设有隐私模式，可以防止一些隐私�
             <p><a href="https://meta.appinn.net/t/topic/70691">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 23 Apr 2025 13:58:40 +0000</pubDate>
-<pubDate>Wed, 23 Apr 2025 13:58:40 +0000</pubDate>
 </item>
 <item>
 <title>【网站自荐】野生程序员｜花半天时间用 Cursor 做了个足球类游戏站（Football Bros）</title>
 <link>https://meta.appinn.net/t/topic/70668</link>
 <guid>https://meta.appinn.net/t/topic/70668</guid>
 <content:encoded><![CDATA[
-
 <p>大家好！我还是那个周末爱倒腾键盘的野生程序员，日常沉迷用代码给生活开外挂（虽然 80%的工具写完就吃灰了 hhh ）</p>
 <p>自从学会用 Cursor 之后，我也就懒得自己动手写代码了，我更习惯指挥 Ai 工具帮我写代码，那种成就感比我自己写代码更快乐。</p>
 <p>自从上次使用 Cursor 复刻经典游戏「俄罗斯方块」已经过去一个多月了，游戏上线后收到很多陌生朋友的反馈，甚是开心，在此表示感谢。<img alt=":woman_bowing:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/woman_bowing.png?v=14" title=":woman_bowing:" width="20" /><img alt=":woman_bowing:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/woman_bowing.png?v=14" title=":woman_bowing:" width="20" /><img alt=":woman_bowing:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/woman_bowing.png?v=14" title=":woman_bowing:" width="20" /></p>
@@ -264,14 +250,12 @@ Flow Mark尊重用户的隐私，设有隐私模式，可以防止一些隐私�
             <p><a href="https://meta.appinn.net/t/topic/70668">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 23 Apr 2025 07:08:25 +0000</pubDate>
-<pubDate>Wed, 23 Apr 2025 07:08:25 +0000</pubDate>
 </item>
 <item>
 <title>寻找一个能本地批量编辑修改浏览器书签网址的软件或浏览器扩展</title>
 <link>https://meta.appinn.net/t/topic/70627</link>
 <guid>https://meta.appinn.net/t/topic/70627</guid>
 <content:encoded><![CDATA[
-
 <h2><a class="anchor" href="https://meta.appinn.net#p-260652-h-1" name="p-260652-h-1"></a>寻找一个能本地批量编辑修改浏览器书签网址的软件或浏览器扩展</h2>
 <h2><a class="anchor" href="https://meta.appinn.net#p-260652-win10win11edgechrome-2" name="p-260652-win10win11edgechrome-2"></a>使用平台为win10，win11。使用浏览器为Edge和Chrome</h2>
 <h2><a class="anchor" href="https://meta.appinn.net#p-260652-h-3" name="p-260652-h-3"></a>使用的需求是：</h2>
@@ -284,14 +268,12 @@ Flow Mark尊重用户的隐私，设有隐私模式，可以防止一些隐私�
             <p><a href="https://meta.appinn.net/t/topic/70627">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 22 Apr 2025 07:47:30 +0000</pubDate>
-<pubDate>Tue, 22 Apr 2025 07:47:30 +0000</pubDate>
 </item>
 <item>
 <title>电脑上的chrome有没有插件能够统一播放器</title>
 <link>https://meta.appinn.net/t/topic/70534</link>
 <guid>https://meta.appinn.net/t/topic/70534</guid>
 <content:encoded><![CDATA[
-
 <h2><a class="anchor" href="https://meta.appinn.net#p-260235-chrome-1" name="p-260235-chrome-1"></a>电脑上的chrome有没有插件能够统一播放器</h2>
 <p>电脑上的chrome有没有插件能够统一播放器。<br />
 像手机端的夸克、qq浏览器那样能够把视频的播放器变成统一的界面<br />
@@ -300,20 +282,17 @@ Flow Mark尊重用户的隐私，设有隐私模式，可以防止一些隐私�
             <p><a href="https://meta.appinn.net/t/topic/70534">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 20 Apr 2025 22:45:04 +0000</pubDate>
-<pubDate>Sun, 20 Apr 2025 22:45:04 +0000</pubDate>
 </item>
 <item>
 <title>Google Chrome 修复了一个二十年悬而未决的 bug</title>
 <link>https://meta.appinn.net/t/topic/70516</link>
 <guid>https://meta.appinn.net/t/topic/70516</guid>
 <content:encoded><![CDATA[
-
 <p>Google 修复了一个 Chrome 当中二十年未解决的 bug，这个会导致用户历史信息泄露。132至135版本可以通过一个选项开启，136会直接启用。</p>
 <p><img alt=":rolled_up_newspaper:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/rolled_up_newspaper.png?v=14" title=":rolled_up_newspaper:" width="20" /> <a href="https://alternativeto.net/news/2025/4/google-patches-20-year-old-chrome-bug-that-exposed-users-browsing-history/">https://alternativeto.net/news/2025/4/google-patches-20-year-old-chrome-bug-that-exposed-users-browsing-history/</a></p>
             <p><small>2 个帖子 - 2 位参与者</small></p>
             <p><a href="https://meta.appinn.net/t/topic/70516">阅读完整话题</a></p>
 ]]></content:encoded>
-<pubDate>Sun, 20 Apr 2025 06:31:08 +0000</pubDate>
 <pubDate>Sun, 20 Apr 2025 06:31:08 +0000</pubDate>
 </item>
 <item>
@@ -321,7 +300,6 @@ Flow Mark尊重用户的隐私，设有隐私模式，可以防止一些隐私�
 <link>https://meta.appinn.net/t/topic/70462</link>
 <guid>https://meta.appinn.net/t/topic/70462</guid>
 <content:encoded><![CDATA[
-
 <h2><a class="anchor" href="https://meta.appinn.net#p-259923-h-1" name="p-259923-h-1"></a>软件名称</h2>
 <p>Tubly Downloader</p>
 <h2><a class="anchor" href="https://meta.appinn.net#p-259923-h-2" name="p-259923-h-2"></a>官方网站</h2>
@@ -400,19 +378,16 @@ Flow Mark尊重用户的隐私，设有隐私模式，可以防止一些隐私�
             <p><a href="https://meta.appinn.net/t/topic/70462">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Fri, 18 Apr 2025 08:06:07 +0000</pubDate>
-<pubDate>Fri, 18 Apr 2025 08:06:07 +0000</pubDate>
 </item>
 <item>
 <title>程序员真的会用Ai辅助开发吗？</title>
 <link>https://meta.appinn.net/t/topic/70830</link>
 <guid>https://meta.appinn.net/t/topic/70830</guid>
 <content:encoded><![CDATA[
-
 <p>最近接了一个比较急的开发项目，公司官网难度倒是不高，都是很简单的表单，不过就是很急。我记得前阵子看到社区有人分享前端开发工具<a href="https://cloneui.org/" rel="noopener nofollow ugc">Cloneui</a>还挺给力的，我就上传了草图，就给生成了一个官网的框架，的确是蛮省时间，就是不能完全代替，有些地方还是要自己调整。我就想问问其它程序员你们会用AI开发吗？</p>
             <p><small>10 个帖子 - 10 位参与者</small></p>
             <p><a href="https://meta.appinn.net/t/topic/70830">阅读完整话题</a></p>
 ]]></content:encoded>
-<pubDate>Sun, 27 Apr 2025 06:37:18 +0000</pubDate>
 <pubDate>Sun, 27 Apr 2025 06:37:18 +0000</pubDate>
 </item>
 <item>
@@ -420,7 +395,6 @@ Flow Mark尊重用户的隐私，设有隐私模式，可以防止一些隐私�
 <link>https://meta.appinn.net/t/topic/70483</link>
 <guid>https://meta.appinn.net/t/topic/70483</guid>
 <content:encoded><![CDATA[
-
 <p>如题，求推荐“稍后读”类App</p>
 <p>本人大概用过三四个，但都是挺久之前了，现在想重新拾起来</p>
 <p>需求：</p>
@@ -437,14 +411,12 @@ Flow Mark尊重用户的隐私，设有隐私模式，可以防止一些隐私�
             <p><a href="https://meta.appinn.net/t/topic/70483">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 19 Apr 2025 08:20:41 +0000</pubDate>
-<pubDate>Sat, 19 Apr 2025 08:20:41 +0000</pubDate>
 </item>
 <item>
 <title>【开发者自荐】【限时免费】相册清理神器：相册瘦身！</title>
 <link>https://meta.appinn.net/t/topic/66734</link>
 <guid>https://meta.appinn.net/t/topic/66734</guid>
 <content:encoded><![CDATA[
-
 <h2><a class="anchor" href="https://meta.appinn.net#p-248956-h-1" name="p-248956-h-1"></a>软件名称</h2>
 <p>相册瘦身</p>
 <h2><a class="anchor" href="https://meta.appinn.net#p-248956-h-2" name="p-248956-h-2"></a>平台</h2>
@@ -477,14 +449,12 @@ Flow Mark尊重用户的隐私，设有隐私模式，可以防止一些隐私�
             <p><a href="https://meta.appinn.net/t/topic/66734">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 20 Feb 2025 08:20:58 +0000</pubDate>
-<pubDate>Thu, 20 Feb 2025 08:20:58 +0000</pubDate>
 </item>
 <item>
 <title>求一个todolist+日历的应用</title>
 <link>https://meta.appinn.net/t/topic/70595</link>
 <guid>https://meta.appinn.net/t/topic/70595</guid>
 <content:encoded><![CDATA[
-
 <p>目前工作在用的日历和待办清单想和生活分开，手机是iPhone电脑是Windows，目前的方案是微软的todo+Notion Calendar，想找一个在Google日历和微软日历体系之外的日历应用，ios+window平台能同步。<br />
 自己找了any.do，但是app里读取的是apple的日历，window客户端只能用Google和微软的日历。<br />
 谢谢啦！</p>
@@ -492,14 +462,12 @@ Flow Mark尊重用户的隐私，设有隐私模式，可以防止一些隐私�
             <p><a href="https://meta.appinn.net/t/topic/70595">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 22 Apr 2025 01:42:13 +0000</pubDate>
-<pubDate>Tue, 22 Apr 2025 01:42:13 +0000</pubDate>
 </item>
 <item>
 <title>同一个wifi下，localsend在安卓端搜索不到ipad</title>
 <link>https://meta.appinn.net/t/topic/70654</link>
 <guid>https://meta.appinn.net/t/topic/70654</guid>
 <content:encoded><![CDATA[
-
 <p>如题，连的同一个wifi，pad上最开始安装完localsend的时候能被手机搜索到</p>
 <p>第二次使用搜索不到了，但是能靠输入标签发送从手机发送文件到pad</p>
 <p>现在输入标签和ip地址都没用了 <img alt=":sweat_smile:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/sweat_smile.png?v=14" title=":sweat_smile:" width="20" />，我只能通过链接下载（不过这也太费劲了 <img alt=":rofl:" class="emoji" height="20" src="https://meta.appinn.net/images/emoji/twemoji/rofl.png?v=14" title=":rofl:" width="20" />）</p>
@@ -508,14 +476,12 @@ Flow Mark尊重用户的隐私，设有隐私模式，可以防止一些隐私�
             <p><a href="https://meta.appinn.net/t/topic/70654">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 23 Apr 2025 02:29:06 +0000</pubDate>
-<pubDate>Wed, 23 Apr 2025 02:29:06 +0000</pubDate>
 </item>
 <item>
 <title>【自荐】全能字词典 - 权威字典随心查[免费不限字数]</title>
 <link>https://meta.appinn.net/t/topic/70506</link>
 <guid>https://meta.appinn.net/t/topic/70506</guid>
 <content:encoded><![CDATA[
-
 <h2><a class="anchor" href="https://meta.appinn.net#p-260127-h-1" name="p-260127-h-1"></a>软件名称</h2>
 <p>全能字词典 - 全功能汉语学习神器</p>
 <h2><a class="anchor" href="https://meta.appinn.net#p-260127-h-2" name="p-260127-h-2"></a>应用平台</h2>
@@ -593,14 +559,12 @@ Flow Mark尊重用户的隐私，设有隐私模式，可以防止一些隐私�
             <p><a href="https://meta.appinn.net/t/topic/70506">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Sun, 20 Apr 2025 02:24:01 +0000</pubDate>
-<pubDate>Sun, 20 Apr 2025 02:24:01 +0000</pubDate>
 </item>
 <item>
 <title>【自荐】SlowTap｜帮你减少 68% 的屏幕使用时间，感知刷手机的时间</title>
 <link>https://meta.appinn.net/t/topic/70153</link>
 <guid>https://meta.appinn.net/t/topic/70153</guid>
 <content:encoded><![CDATA[
-
 <h2><a class="anchor" href="https://meta.appinn.net#p-259330-h-1" name="p-259330-h-1"></a>软件名称</h2>
 <p><a href="https://apps.apple.com/app/id6743831804" rel="noopener nofollow ugc">SlowTap</a></p>
 <h2><a class="anchor" href="https://meta.appinn.net#p-259330-h-2" name="p-259330-h-2"></a>应用平台</h2>
@@ -628,14 +592,12 @@ Flow Mark尊重用户的隐私，设有隐私模式，可以防止一些隐私�
             <p><a href="https://meta.appinn.net/t/topic/70153">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 16 Apr 2025 11:57:31 +0000</pubDate>
-<pubDate>Wed, 16 Apr 2025 11:57:31 +0000</pubDate>
 </item>
 <item>
 <title>[Mac App 送码] CursorFlow 让你的鼠标轨迹可视化，会议投屏演示、录屏神器！</title>
 <link>https://meta.appinn.net/t/topic/70889</link>
 <guid>https://meta.appinn.net/t/topic/70889</guid>
 <content:encoded><![CDATA[
-
 <h2><a class="anchor" href="https://meta.appinn.net#p-261786-h-1" name="p-261786-h-1"></a>介绍</h2>
 <p>朋友们好！五一假期快到了，准备送一波福利：CursorFlow Pro 激活码+限时特惠！</p>
 <p>这是根据我自己的需求开发的一款 Mac App ，之前和同事开会投屏的时候，他们总是跟不上我的操作，所以想让鼠标轨迹可视化，还是键盘按下的提示。</p>
@@ -669,14 +631,12 @@ XFW7XETNJL7R</p>
             <p><a href="https://meta.appinn.net/t/topic/70889">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Mon, 28 Apr 2025 15:12:44 +0000</pubDate>
-<pubDate>Mon, 28 Apr 2025 15:12:44 +0000</pubDate>
 </item>
 <item>
 <title>【自荐】Daan：一个完全开源免费的大模型客户端，支持MCP服务器，界面美观轻量</title>
 <link>https://meta.appinn.net/t/topic/70669</link>
 <guid>https://meta.appinn.net/t/topic/70669</guid>
 <content:encoded><![CDATA[
-
 <h2><a class="anchor" href="https://meta.appinn.net#p-260835-h-1" name="p-260835-h-1"></a>软件名称</h2>
 <p>Daan（答案）</p>
 <h2><a class="anchor" href="https://meta.appinn.net#p-260835-h-2" name="p-260835-h-2"></a>应用平台</h2>
@@ -742,14 +702,12 @@ XFW7XETNJL7R</p>
             <p><a href="https://meta.appinn.net/t/topic/70669">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Wed, 23 Apr 2025 07:14:20 +0000</pubDate>
-<pubDate>Wed, 23 Apr 2025 07:14:20 +0000</pubDate>
 </item>
 <item>
 <title>【开源自荐】BongoCat 桌宠全新升级！开源 × 跨平台，快来撸猫！</title>
 <link>https://meta.appinn.net/t/topic/70618</link>
 <guid>https://meta.appinn.net/t/topic/70618</guid>
 <content:encoded><![CDATA[
-
 <p><img alt="iShot_2025-04-22_14.47.57.gif" height="428" src="https://h1.appinn.me/file/1745304526119_iShot_2025-04-22_14.47.57.gif" width="690" /></p>
 <h2><a class="anchor" href="https://meta.appinn.net#p-260635-h-1" name="p-260635-h-1"></a>开源地址</h2>
 <p>仓库地址：<a href="https://github.com/ayangweb/BongoCat" rel="noopener nofollow ugc">BongoCat</a></p>
@@ -812,14 +770,12 @@ XFW7XETNJL7R</p>
             <p><a href="https://meta.appinn.net/t/topic/70618">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Tue, 22 Apr 2025 06:51:13 +0000</pubDate>
-<pubDate>Tue, 22 Apr 2025 06:51:13 +0000</pubDate>
 </item>
 <item>
 <title>【开发自荐】Dockit 我的窗口管理方式</title>
 <link>https://meta.appinn.net/t/topic/70184</link>
 <guid>https://meta.appinn.net/t/topic/70184</guid>
 <content:encoded><![CDATA[
-
 <h2><a class="anchor" href="https://meta.appinn.net#p-259434-h-1" name="p-259434-h-1"></a>软件名称</h2>
 <p>Dockit</p>
 <h2><a class="anchor" href="https://meta.appinn.net#p-259434-h-2" name="p-259434-h-2"></a>应用平台</h2>
@@ -871,14 +827,12 @@ XFW7XETNJL7R</p>
             <p><a href="https://meta.appinn.net/t/topic/70184">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Thu, 17 Apr 2025 06:25:18 +0000</pubDate>
-<pubDate>Thu, 17 Apr 2025 06:25:18 +0000</pubDate>
 </item>
 <item>
 <title>【开发自荐】MacOS平台桌面便签笔记软件！</title>
 <link>https://meta.appinn.net/t/topic/70486</link>
 <guid>https://meta.appinn.net/t/topic/70486</guid>
 <content:encoded><![CDATA[
-
 <p>软件名称<br />
 <strong>NoteGlow</strong></p>
 <h2><a class="anchor" href="https://meta.appinn.net#p-260041-h-1" name="p-260041-h-1"></a>应用平台</h2>
@@ -921,9 +875,7 @@ XFW7XETNJL7R</p>
             <p><a href="https://meta.appinn.net/t/topic/70486">阅读完整话题</a></p>
 ]]></content:encoded>
 <pubDate>Sat, 19 Apr 2025 08:48:50 +0000</pubDate>
-<pubDate>Sat, 19 Apr 2025 08:48:50 +0000</pubDate>
 </item>
-
 <item>
 <title>求一个能完整下载网页文字和图片的chrome插件</title>
 <link>https://meta.appinn.net/t/topic/70085</link>
